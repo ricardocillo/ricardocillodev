@@ -6,5 +6,5 @@ ricardocillodev {
 - 🤔 I’m looking for help with Python, JS;
 - 💬 Ask me about anything;
 - 📫 How to reach me: ricardocillofilho@gmail.com;
-- ⚡ Fun fact: Discipline & Freedom
+- ⚡ Fun fact: Discipline & Freedom;
 }
